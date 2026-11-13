@@ -6,10 +6,10 @@
 
 | Field    | Details                                                                     |
 | -------- | --------------------------------------------------------------------------- |
-| Name     | Charlie Long |
-| Role     | Information Design Student | 
-|School| Mount Royal University|
-| Interest | Visual communication |            
+| Name     | Charlie Long 
+| Role     | Information Design Student  
+|School| Mount Royal University
+| Interest | Visual communication             
 
 > It's go time.
 
