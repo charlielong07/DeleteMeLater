@@ -1,2 +1,2 @@
 # Charlie Long Buisness Card
-This is for the Mankaro project
+This is for the Manjaro project
