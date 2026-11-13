@@ -9,7 +9,7 @@
 | Name     | Charlie Long |
 | Role     | Information Design Student | 
 |School| Mount Royal University|                                                |
-| Interest | Visual communication |                                               ---
+| Interest | Visual communication |            
 
 > It's go time.
 
